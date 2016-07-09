@@ -72,3 +72,8 @@ All" and the hotkey should be available in all sections.
 
 To test if the mod works boot up the game and hit the "Pause" button. If all
 works well you should be able to pause and resume the game.
+
+## Support
+
+I don't provide any support for this mod as I'm already busy enough as-is,
+sorry!
