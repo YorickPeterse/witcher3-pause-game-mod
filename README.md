@@ -1,5 +1,7 @@
 # README
 
+<img src="screenshot.jpg" alt="Example Screenshot">
+
 A simple mod to pause/resume the game while hiding the UI, without all the extra
 features other mods may offer.
 
