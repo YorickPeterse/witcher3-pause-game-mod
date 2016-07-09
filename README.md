@@ -3,6 +3,16 @@
 A simple mod to pause/resume the game while hiding the UI, without all the extra
 features other mods may offer.
 
+## Why?
+
+The most commonly used mod for taking screenshots is the mod "PhotoMode 2inOne".
+This mod comes with a variety of features such as being able to toggle the
+weather, add effects, etc.
+
+When taking screenshots however I personally don't really care for those
+effects, I just want to be able to pause the game immediately and hide all UI
+elements. This mod does exactly (and _just_) that.
+
 ## Requirements
 
 * Debug Console Enabler (if you want the Freecam feature)
